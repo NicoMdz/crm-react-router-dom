@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Pedro ACTUALIZADO",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "nueva notaAAAA",
+      "id": 5
+    },
+    {
+      "nombre": "Nicolás Méndez Brito",
+      "empresa": "Imperial Toys",
+      "email": "correo@correo.com",
+      "telefono": "9851264905",
+      "notas": "Recién cambiado a departamento de E-Commerce",
+      "id": 6
+    },
+    {
+      "nombre": "Oliver",
+      "empresa": "Dechathlon",
+      "email": "codymut09@gmai.com",
+      "telefono": "9854564954",
+      "notas": "Su trabajo de ensueño",
+      "id": 7
+    }
+  ]
+}
